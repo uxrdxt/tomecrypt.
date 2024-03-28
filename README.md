@@ -32,6 +32,7 @@ Generate a Symmetric Key
      python tomecrypt.py -g <key_file>
 
 
+### docs/help.txt:
 
 TomeCrypt - Command-Line Usage
 
